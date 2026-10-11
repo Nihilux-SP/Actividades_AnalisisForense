@@ -1,6 +1,6 @@
-#Lista de comprobación para la escena
+# Lista de comprobación para la escena
 
-###I. Al llegar (evaluación previa y preparación):
+### I. Al llegar (evaluación previa y preparación):
 
 1. Averiguar el contexto: conocer el resumen del incidente, el rol del sistema y las posibles restricciones legales; confirmar el alcance de la autorización forense. [ENFSI BPM §9.1]
 
@@ -10,7 +10,7 @@
 
 4. Coordinar al personal: aclarar los roles de cada parte en la escena y valorar si se necesita al administrador del sistema para extraer datos concretos. [ENFSI BPM §9.2]
 
-###II. Antes de tocar nada (control de la escena y documentación):
+### II. Antes de tocar nada (control de la escena y documentación):
 
 5. Controlar el flujo de personas: limitar la entrada y salida para evitar que alguien toque el teclado o el ratón y altere el estado del sistema. [ENFSI BPM §8.2]
 
@@ -22,7 +22,7 @@
 
 9. Determinar el estado operativo: registrar si el sistema está encendido, si tiene red y si hay volúmenes cifrados montados. [ENFSI BPM §9.2]
 
-###III. Decidir qué se adquiere y en qué orden (fase de ejecución):
+### III. Decidir qué se adquiere y en qué orden (fase de ejecución):
 
 10. Seguir el orden de volatilidad: operar en la secuencia registros/caché → memoria → sistemas de archivos temporales → disco. [RFC 3227 §2.1]
 
@@ -40,7 +40,7 @@
 
 17. Establecer prioridades: si coexisten varios dispositivos, ordenar la recogida según el valor del dato y su velocidad de desaparición. [ENFSI BPM §9.2]
 
-###IV. Durante la adquisición (normas de actuación):
+### IV. Durante la adquisición (normas de actuación):
 
 18. Arranque desde almacenamiento externo: ejecutar todas las herramientas desde medios de solo lectura para no contaminar el sistema objetivo. [RFC 3227 §2.1]
 
@@ -50,7 +50,7 @@
 
 21. Embalaje y etiquetado: proteger contra escritura el medio original tras la adquisición e indicar claramente su procedencia. [ENFSI BPM §9.2]
 
-###V. Antes de abandonar la escena (confirmación final):
+### V. Antes de abandonar la escena (confirmación final):
 
 22. Confirmar la exhaustividad: repasar la lista y verificar que se han cubierto todas las fuentes de datos volátiles previstas. [RFC 3227 §2.1]
 
