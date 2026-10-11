@@ -63,7 +63,7 @@
 
 | Orden | Evidencia | Por qué |
 | :--- | :--- | :--- |
-| 6 | **Historial de la impresora** | «No sé cuánto» guarda; puede borrarse por ciclos automáticos |
+| 6 | **Historial de la impresora** | No sé cuánto guarda; puede borrarse por ciclos automáticos |
 | 7 | **OneDrive** | Historial de versiones y registros de acceso; puede tener retención limitada |
 | 8 | **NAS de copias** | Conserva 14 noches; si pasa una noche más, se pierde la copia más antigua |
 | 9 | **Servidor de ficheros** | Registros de acceso y fechas de modificación; pueden rotar |
