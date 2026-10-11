@@ -23,7 +23,7 @@
 | 11 | **NAS de copias de seguridad** (últimas 14 noches) | Versiones anteriores de archivos, posible recuperación de datos borrados o modificados |
 | 12 | **Cortafuegos** | Registro de conexiones (aproximadamente una semana), posible tráfico hacia servicios cloud o IPs externas |
 
-### En la nube y en terceros
+### En la nube y en terceros:
 
 | # | Evidencia | Qué puede contener |
 | :--- | :--- | :--- |
